@@ -21,7 +21,7 @@
         "node-telegram-bot-api": "*",
         "nodemailer": "2.7.2",
         "nodemailer-sendmail-transport": "*",
-        "redis": "3.1.2",
+        "redis": "*",
         "socket.io": "^2.1.1",
         "time-ago": "*",
         "request": "^2.88.0",
