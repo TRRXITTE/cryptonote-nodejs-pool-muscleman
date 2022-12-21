@@ -24,6 +24,7 @@
     "hashingUtil": true,
     "poolServer": {
         "enabled": false,
+        "mergedMining": true,
         "clusterForks": 6,
         "poolAddress": "iETRXwwizyZLBBcD2QJLZsH4wSJ5WvGCYURhS9sYBrPyGHXerTmhPY9LoF5jw3SFFYh1eXjFouQjM7vUZHWYvGu94yraQmu6qU32f",
         "intAddressPrefix": 461586806,
